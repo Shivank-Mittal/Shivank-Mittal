@@ -12,7 +12,6 @@
 - 🌱 Experienced with **Angular**, **React**, **Spring Boot**, **Python**, and **FastAPI**
 - 💡 Previously worked at **Murex** as Full Stack Software Engineer (2021-2024)
 - 📫 Reach me at: **mittal.shivank@gmail.com**
-- 🌐 Portfolio: **https://shivank-portfolio.herokuapp.com**
 - 📍 Based in **Paris, France**
 
 ---
@@ -72,11 +71,8 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shivank-mittal-09055ba3" target="_blank">
+<a href="https://linkedin.com/in/shivank-mittal-09055ba3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://shivank-portfolio.herokuapp.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:mittal.shivank@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
